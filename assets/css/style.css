@@ -1,0 +1,317 @@
+/* 
+
+Theme Name: Nnamdi-Azikiwe-University-Awka
+Author: HASOB
+Author URI: https://hasob.com.ng/
+Version: 1.0 
+Description: Nnamdi Azikiwe University Awka Official Website Developed by HASOB Integrated Services Limited
+
+
+*/
+
+#header-menu {
+    background-color:#fff !important;
+    color: rgb(211,84,0) ;
+    font-weight: 700; 
+}
+
+#header-menu img {
+    width:auto !important;
+    height: 80px !important;
+}
+
+ .dropdown-menu, #nav, #nav a {
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+    font-weight: 700; 
+    font-size: 13px;
+}
+
+#nav {
+    background-color:rgb(211,84,0)!important;
+    color: #fff !important;  
+}
+
+ footer {
+    background-color:rgb(44,62,80) !important;
+    color: #fff;
+    font-weight: 700;
+    
+}
+
+footer a {
+    color: #fff;
+    font-weight: 700;
+    
+}
+
+footer hr {
+    border: rgb(255, 0, 21) solid 1px;
+}
+
+
+#nav li a:hover {
+    background-color: rgb(145, 61, 5) !important;
+    color: white;
+    
+}
+
+ footer a:hover {
+    color: white;  
+}
+
+
+#nav .current-menu-item.current_page_item a , #nav .active,#nav .current_page_ancestor a  {
+    background-color: rgb(145, 61, 5) !important;
+    color: white;
+}
+
+
+ @media (max-width: 576px) { 
+    #nav img {
+        width:90px;
+        height: auto;
+    }
+
+ .search-form input[type="search"], input[type="text"], textarea, input[type="email"]{
+        width: 100% !important;
+        height: 100% !important;
+    
+    }
+}
+
+@media (min-width: 768px) {
+    #header-menu img {
+        width:300px;
+        height: auto;
+    }
+ }
+
+ i.fa.fa-phone {
+    transform: rotate(-180deg);
+    margin-top: 20px;
+ }
+
+ i.fa.fa-university {
+    margin-top: 20px;
+    margin-right: 20px;
+ }
+
+
+
+#header-menu .contact-detail {
+    margin-top: 30px;
+}
+
+#header-menu .contact-phone {
+    margin-top: 20px;
+    margin-left: -10px;
+}
+
+#contact .contact-us {
+    padding: 5px;
+}
+
+#header-menu form{
+    margin-top: 30px;
+}
+
+form label span.screen-reader-text {
+   display: none;
+}
+
+footer .menu-item {
+    list-style: none;
+}
+
+footer li.menu-item  ul.sub-menu li {
+    margin-left: -30px;
+}
+
+ul#menu-footer-menu-2-links.menu {
+    padding-left: 5px;
+}
+
+#callout img {
+    width: 100%;
+    height: auto;
+}
+
+#callout h1 a {
+    color: rgb(211,84,0) !important;
+
+}
+
+
+
+.card-header a {
+    font-size: 1.2rem !important;
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+}
+
+.card-header {
+    font-size: 1.2rem !important;
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+}
+
+ h2.card-header {
+    font-size: 1.2rem !important;
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+}
+
+.news span {
+    color: rgb(230, 29, 29) !important;
+    font-weight: 700;
+    padding: 5px;
+    font-size: 1.8rem;   
+}
+
+#nav nav li.portal a {
+    background-color:rgb(211,84,0) !important;
+    color: #fff;
+    font-weight: 700; 
+}
+
+.attachment-post-thumbnail {
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+
+.administration {
+    color: rgb(230, 29, 29) !important;
+    font-weight: 700;
+    padding: 5px;
+    font-size: 2.2rem; 
+}
+
+#tetfund-intervention .carousel img {
+    width: 100%;
+}
+
+.projects-img .attachment-post-thumbnail {
+    width: 100%;
+
+}
+
+.btn-primary {
+    font-size: 1.2rem !important;
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+    border-top: 2px solid orangered;
+    outline: none;
+}
+
+div.stakeholder {
+    margin-top: -10px;
+}
+
+div.stakeholder ul li, footer ul li {
+    list-style: none;
+   margin-left: -40px;
+}
+
+.wpcf7-form-control.wpcf7-text, .wpcf7-form-control.wpcf7-textarea {
+    padding: 5px;
+}
+
+#welcome img, #about img {
+    width: 100%;
+    height: auto;
+}
+
+.tetfund h3 {
+    color: white;
+    background-color: #007D53; 
+    padding: 7px;
+}
+
+
+
+.search-form input[type="submit"], .search-form input[type="search"], input[type="text"], textarea, input[type="email"], input[type="submit"]{
+    border: 1px solid rgb(211,84,0) !important;
+    padding: 5px !important;
+    border-radius: 3px !important;
+
+}
+
+.search-form input[type="submit"], input[type="submit"]{
+    font-size: 1.1rem !important;
+    background-color:rgb(211,84,0) !important;
+    color: #fff !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+
+}
+
+#RESEARCH-AND-INNOVATION {
+    background-color:rgb(33,97,140) !important;  
+    color: #fff !important;
+    padding: 50px;
+}
+
+#RESEARCH-AND-INNOVATION .research-and-innovation {
+    background-color:#fff !important;  
+    color: rgb(5, 5, 5) !important;
+    border-top: rgb(211,84,0) solid 5px;
+}
+
+#RESEARCH-AND-INNOVATION .research-and-innovation img {
+    width:100%;
+    height: auto;
+}
+
+#FIELD-FOCUS {
+    background-color:#fff !important;  
+    padding: 50px;
+}
+
+#FIELD-FOCUS h2, #RESEARCH-AND-INNOVATION h2, #EVENTS-AND-NEWS  h2 {
+    font-size: 2.5em;
+    font-weight: 900;
+}
+
+#FIELD-FOCUS .field-focus {
+    background-color:#fff !important;  
+    color: rgb(5, 5, 5) !important;
+    
+}
+
+#FIELD-FOCUS .field-focus img {
+    width:100%;
+    height: auto;
+    border-bottom: rgb(211,84,0) solid 5px;
+}
+
+#OUR-COURSES {
+    background-color:#BAC5C6 !important;  
+    padding: 50px;
+    font-size: 3em;
+    font-weight: 500;
+}
+
+#EVENTS-AND-NEWS {
+    background-color:rgb(211,84,0) !important;  
+    color:#fff;
+    padding: 50px;
+}
+
+#EVENTS-AND-NEWS .events-and-news {
+    background-color:#fff !important;  
+    color: rgb(5, 5, 5) !important;
+    
+}
+
+#EVENTS-AND-NEWS .events-and-news img {
+    width:100%;
+    height: auto;
+    border-bottom: rgb(211,84,0) solid 5px;
+}
+
+
+
